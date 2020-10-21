@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bite&Sting](https://github.com/Bite-and-Sting/howToComputer/blob/main/img/merseyBite1.png)
